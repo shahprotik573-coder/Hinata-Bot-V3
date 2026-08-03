@@ -13,6 +13,11 @@ const mahmud = [
     "assala",
     "protik",
     "diablo",
+    "kuoshik",
+    "কৌশিক",
+    "প্রতিক",
+    "প্রতীক",
+
 ];
 
 const baseApiUrl = async () => {
